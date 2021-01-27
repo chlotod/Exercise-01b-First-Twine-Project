@@ -1,5 +1,3 @@
-The final state of the file should be as follows (replacing my information with yours):
-```
 # Exercise-01b-First-Twine-Project
 Exercise for MSCH-C220, 25 January 2021
 
